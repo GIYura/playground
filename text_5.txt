@@ -1,4 +1,9 @@
-line_321
+<<<<<<< HEAD
+line_3:21
 line_222
 line_999
 lllllll
+=======
+linebbb
+lineaaa
+>>>>>>> issue345
